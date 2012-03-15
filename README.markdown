@@ -1,0 +1,1 @@
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://raw.github.com/pivotalcommon/timekeeping_bookmarklet/master/bookmarklet.js';})();
